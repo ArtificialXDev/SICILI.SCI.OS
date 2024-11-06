@@ -13,7 +13,7 @@ First Open Your Terminal/Command Prompt.
 Then Type:
 
 ```bash
-cd path\to\the\SICILI.SCI.OS-0.0.0.1\kernel\folder
+cd path\to\the\SICILI.SCI.OS-0.0.0.1\kernel\
 ```
 
 #
