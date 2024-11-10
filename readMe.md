@@ -1,6 +1,6 @@
 # SICILI.SCI.OS
 >  Note:  $ Means Important
-
+> Due To Bots I Have Added Verification.
 ## An Os Full of Sci. And Sci.cmdname.sciex
 > # $*Notice:*
 >### I Took No Absolutely NO Code From Anyone, Each And Every Part Of This Code Is Mine, And Mine Alone
@@ -13,7 +13,7 @@ First Open Your Terminal/Command Prompt.
 Then Type:
 
 ```bash
-cd path\to\the\SICILI.SCI.OS-0.0.0.1\kernel\
+cd path\to\the\SICILI.SCI.OS-0.0.0.1\kernel\folder
 ```
 
 #
