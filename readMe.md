@@ -4,7 +4,7 @@
 > Due To Bots I Have Added Verification.
 ## An Os Full of Sci. And Sci.cmdname.sciex
 > # $*Notice:*
->### I Took No Absolutely NO Code From Anyone, Each And Every Part Of This Code Is Mine, And Mine Alone
+>### ORIG By @Webbrowser11 & AlternetCode
 > #
 #
 
